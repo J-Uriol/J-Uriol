@@ -43,5 +43,3 @@
 📧 **Email:** [javieruriolbalbin22@gmail.com](mailto:javieruriolbalbin22@gmail.com)
 ---
 
-⭐ **¡Gracias por visitar mi perfil!**  
-Si te gusta lo que hago, no dudes en seguirme o colaborar en algún proyecto. 🚀

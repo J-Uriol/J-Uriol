@@ -35,12 +35,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/pta6chvnwjdjuip2gcmm4fylf">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pta6chvnwjdjuip2gcmm4fylf&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###

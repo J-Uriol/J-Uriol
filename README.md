@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hola, soy <span style="color:#61dafb;">J-Uriol</span></h1>
-<h3 align="center">💻 Apasionado por el desarrollo web | 🚀 Backend & Análisis de datos</h3>
+<h3 align="center">💻 Apasionado por el desarrollo web | 🚀 Especializado en Backend & IA</h3>
 
 ---
 
 ### 🌟 Sobre mí  
 <p align="left">
 - 🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW).<br>
-- 🔥 Apasionado por el desarrollo backend y análisis de datos.<br>
-- 💡 Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades.<br>
-- 🤝 Abierto a colaborar en proyectos innovadores y crecer profesionalmente.<br>
+- 🔒 Introvertido y trabajador, constante e innovador.<br>
+- 🤝 Disfruto trabajar en equipo para resolver problemas complejos.<br>
+- 💡 Motivado por aprender, mejorar y desarrollar backend de servidores web.<br>
 </p>
 
 ---
@@ -30,13 +30,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
 
 ---
 
 ### 📊 Mis estadísticas  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-URiol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-URiol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 ---
@@ -50,9 +52,18 @@
 
 ### 💬 Mis intereses  
 <p align="center">
-Backend Development 🔧 | Data Analysis 📊 | Creación de APIs 🌐 | Aprendizaje continuo 🚀
+Backend Development 🔧 | IA 🤖 | Creación de APIs 🌐 | Aprendizaje continuo 🚀
 </p>
 
 ---
 
-<h3 align="center">✨ Siempre aprendiendo, siempre creciendo ✨</h3>
+### 🎯 Mis metas  
+<p align="center">
+- Aprender profundamente Backend de servidores web.<br>
+- Especializarme en Backend y IA.<br>
+- Trabajar en proyectos innovadores.<br>
+</p>
+
+---
+
+<h3 align="center">✨ Constancia e innovación en cada línea de código ✨</h3>

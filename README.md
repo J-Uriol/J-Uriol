@@ -41,6 +41,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-URiol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
+### 📈 Mis commits recientes
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-Uriol&theme=dark&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+
 ---
 
 ### 📫 Contacto  

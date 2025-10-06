@@ -43,9 +43,8 @@
 
 ### 📅 Calendario de commits
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=J-Uriol&theme=react-dark&hide_border=false" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-snake-stats.herokuapp.com/?user=J-Uriol&theme=dark&hide_border=false" alt="GitHub Snake" />
 </p>
-
 ---
 
 ### 📫 Contacto  

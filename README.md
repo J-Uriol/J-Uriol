@@ -53,7 +53,6 @@
 <p align="center">
 📧 Email: <a href="mailto:juriolbalbin@proton.me">juriolbalbin@proton.me</a>
 </p>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pta6chvnwjdjuip2gcmm4fylf)
 ---
 
 ### 💬 Mis intereses  

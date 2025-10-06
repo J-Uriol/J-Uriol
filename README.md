@@ -43,7 +43,7 @@
 
 ### 📅 Calendario de commits
 <p align="center">
-  <img src="https://github-readme-snake-stats.herokuapp.com/?user=J-Uriol&theme=dark&hide_border=false" alt="GitHub Snake" />
+ ![Snake animation](https://github.com/J-Uriol/J-Uriol/blob/output/github-contribution-snake.svg)
 </p>
 ---
 

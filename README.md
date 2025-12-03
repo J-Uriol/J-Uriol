@@ -1,17 +1,13 @@
 <h1 align="center">Hola, soy <span style="color:#61dafb;">J-Uriol</span></h1>
 <h3 align="center">Backend Developer | AI Enthusiast | DAW Student</h3>
 
-<p align="center">
-  <em>Constancia e innovación en cada línea de código.</em>
-</p>
-
 ---
 
-### 🌟 Perfil Profesional
+### 🌟 Sobre mí
 Estudiante de Desarrollo de Aplicaciones Web (DAW) con enfoque en **arquitectura de servidores** e **Inteligencia Artificial**.
 * 🔭 **Actualidad:** Profundizando en lógica de negocio compleja y optimización de bases de datos.
 * 🚀 **Enfoque:** Código limpio, escalabilidad y resolución de problemas algorítmicos.
-* 🤝 **Soft Skills:** Trabajo colaborativo, adaptabilidad y aprendizaje autodidacta continuo.
+* 🤝 **Competencias:** Trabajo colaborativo, adaptabilidad y aprendizaje autodidacta continuo.
 
 ---
 
@@ -22,7 +18,9 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) con enfoque en **arquitectura
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
 </div>
 
 **Frontend**
@@ -48,7 +46,7 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) con enfoque en **arquitectura
 ---
 
 ### 🎯 Objetivos y Metas
-* **Especialización:** Dominio avanzado de Frameworks Backend (Spring Boot / Django).
+* **Especialización:** Dominio avanzado de Frameworks Backend (Spring Boot / Django / FastAPI).
 * **Innovación:** Integración de modelos de IA en flujos de trabajo web tradicionales.
 * **Desarrollo:** Creación de APIs RESTful robustas y seguras.
 

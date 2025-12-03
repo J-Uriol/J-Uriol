@@ -54,12 +54,6 @@
 Backend Development 🔧 | IA 🤖 | Creación de APIs 🌐 | Aprendizaje continuo 🚀
 </p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/pta6chvnwjdjuip2gcmm4fylf">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pta6chvnwjdjuip2gcmm4fylf&count=2&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ---
 
 ### 🎯 Mis metas  

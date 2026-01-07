@@ -38,13 +38,6 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) con enfoque en **arquitectura
 
 ---
 
-### 📊 Actividad en GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=J-URiol&locale=es&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
----
-
 ### 🎯 Objetivos y Metas
 * **Especialización:** Dominio avanzado de Frameworks Backend (Spring Boot / Django / FastAPI).
 * **Innovación:** Integración de modelos de IA en flujos de trabajo web tradicionales.

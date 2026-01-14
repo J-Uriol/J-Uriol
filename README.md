@@ -49,4 +49,7 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) con enfoque en **arquitectura
   <a href="mailto:juriolbalbin@proton.me">
     <img src="https://img.shields.io/badge/Email-juriolbalbin%40proton.me-blue?style=flat-square&logo=protonmail" alt="Email" />
   </a>
+  <a href=""mailto:https://www.linkedin.com/in/javier-uriol-balbin-32020b384/>
+    
+  </a>
 </p>

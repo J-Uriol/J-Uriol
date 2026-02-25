@@ -52,16 +52,7 @@ Estudiante de Desarrollo de Aplicaciones Web (DAW) con enfoque en **arquitectura
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
 </div>
 
-
 ---
-
-### 🎯 Objetivos y Metas
-* **Especialización:** Dominio avanzado de Frameworks Backend (Spring Boot / Django / FastAPI).
-* **Innovación:** Integración de modelos de IA en flujos de trabajo web tradicionales.
-* **Desarrollo:** Creación de APIs RESTful robustas y seguras.
-
----
-
 
 <p align="center">
   <a href="mailto:juriolbalbin@proton.me">

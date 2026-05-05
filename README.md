@@ -1,63 +1,125 @@
-<h1 align="center">Hola, soy <span style="color:#61dafb;">J-Uriol</span></h1>
-<h3 align="center">Backend Developer | AI Enthusiast | DAW Student</h3>
+<h1 align="center">Javier Uriol Balbín</h1>
+<h3 align="center">Backend Developer | Full-Stack Engineer | DAW Student</h3>
+
+<p align="center">
+  <a href="mailto:juriolbalbin@proton.me">
+    <img src="https://img.shields.io/badge/Email-juriolbalbin%40proton.me-8B89CC?style=flat-square&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/javier-uriol-balbin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Javier%20Uriol-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Toledo%2C%20Spain-red?style=flat-square" alt="Location" />
+</p>
 
 ---
 
-### 🌟 Sobre mí
-Estudiante de Desarrollo de Aplicaciones Web (DAW) con enfoque en **arquitectura de servidores** e **Inteligencia Artificial**.
-* 🔭 **Actualidad:** Profundizando en lógica de negocio compleja y optimización de bases de datos.
-* 🚀 **Enfoque:** Código limpio, escalabilidad y resolución de problemas algorítmicos.
-* 🤝 **Competencias:** Trabajo colaborativo, adaptabilidad y aprendizaje autodidacta continuo.
+## Perfil Técnico
+
+Desarrollador full-stack especializado en arquitecturas backend escalables y aplicaciones web modernas. Experiencia comprobada en diseño de APIs RESTful, integración de sistemas de autenticación JWT, gestión de bases de datos relacionales y configuración de pipelines de observabilidad.
+
+**Áreas de especialización:**
+- Arquitectura de microservicios con Spring Boot
+- Desarrollo frontend con Vue.js/React (Composition API, TypeScript, Pinia)
+- Diseño de esquemas de bases de datos relacionales (PostgreSQL, MySQL)
+- Containerización y orquestación con Docker
+- Observabilidad y monitoreo (Prometheus, Loki, Grafana)
 
 ---
 
-### 🛠 Stack Tecnológico
-### 💻 Backend & Frameworks
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="springboot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-</div>
+## Proyectos Destacados
 
-### 🗄️ Bases de Datos
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite" />
-</div>
+### SaveCash (2024-2025)
+**Plataforma de gestión financiera familiar**  
+Stack: Spring Boot 4, Java 25, PostgreSQL, Vue.js 3, TypeScript, Pinia, Docker
 
-### 🌐 Frontend
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs" />
-</div>
+- Implementación de sistema de autenticación JWT con control de roles granular
+- Diseño de arquitectura de datos para gestión de familias y roles mediante entidades Hibernate
+- Configuración de observabilidad completa (Prometheus + Loki + Grafana) con perfiles Spring diferenciados
+- Resolución de conflictos de dependencias en logback-appender para Spring Boot 4
+- Integración de servicios de email transaccional (Mailtrap) con manejo de cuotas y health checks
 
-### 🛠️ Herramientas & Cloud
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-</div>
+---
+
+## Stack Tecnológico
+
+### Backend & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=black)
+
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### DevOps & Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+---
+
+## Competencias Técnicas
+
+**Backend Development**
+- Diseño e implementación de APIs RESTful
+- Autenticación y autorización (JWT, OAuth)
+- ORM/Hibernate con validación de esquemas
+- Gestión de transacciones y optimización de consultas
+
+**Frontend Development**
+- Arquitecturas SPA con Vue.js 3 (Composition API)
+- State management con Pinia
+- Migración entre frameworks (Angular → React)
+- TypeScript para type safety
+
+**DevOps & Observabilidad**
+- Containerización con Docker (multi-stage builds, Docker Compose)
+- Configuración de stacks de observabilidad (Prometheus, Loki, Grafana)
+- Gestión de perfiles Spring para múltiples entornos
+- Debugging de conflictos de dependencias en entornos productivos
+
+**Metodología de Trabajo**
+- Resolución sistemática de problemas técnicos complejos
+- Documentación técnica formal para entregas académicas/profesionales
+- Aprendizaje autodidacta mediante migración de proyectos entre tecnologías
+
+---
+
+## Estadísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=J-Uriol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Uriol&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## Formación
+
+**Desarrollo de Aplicaciones Web (DAW)**  
+Enfoque en arquitectura de servidores, integración de sistemas y desarrollo full-stack
 
 ---
 
 <p align="center">
-  <a href="mailto:juriolbalbin@proton.me">
-    <img src="https://img.shields.io/badge/Email-juriolbalbin%40proton.me-blue?style=flat-square&logo=protonmail" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/javier-uriol-balbin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Javier%20Uriol-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
+  <sub>Código limpio · Arquitectura escalable · Resolución de problemas</sub>
 </p>
-

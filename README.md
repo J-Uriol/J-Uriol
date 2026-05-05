@@ -7,8 +7,6 @@
   </a>
   <a href="https://www.linkedin.com/in/javier-uriol-balbin/">
     <img src="https://img.shields.io/badge/LinkedIn-Javier%20Uriol-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Toledo%2C%20Spain-red?style=flat-square" alt="Location" />
 </p>
 
 ---

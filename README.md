@@ -72,45 +72,6 @@ Stack: Spring Boot 4, Java 25, PostgreSQL, Vue.js 3, TypeScript, Pinia, Docker
 
 ---
 
-## Competencias Técnicas
-
-**Backend Development**
-- Diseño e implementación de APIs RESTful
-- Autenticación y autorización (JWT, OAuth)
-- ORM/Hibernate con validación de esquemas
-- Gestión de transacciones y optimización de consultas
-
-**Frontend Development**
-- Arquitecturas SPA con Vue.js 3 (Composition API)
-- State management con Pinia
-- Migración entre frameworks (Angular → React)
-- TypeScript para type safety
-
-**DevOps & Observabilidad**
-- Containerización con Docker (multi-stage builds, Docker Compose)
-- Configuración de stacks de observabilidad (Prometheus, Loki, Grafana)
-- Gestión de perfiles Spring para múltiples entornos
-- Debugging de conflictos de dependencias en entornos productivos
-
-**Metodología de Trabajo**
-- Resolución sistemática de problemas técnicos complejos
-- Documentación técnica formal para entregas académicas/profesionales
-- Aprendizaje autodidacta mediante migración de proyectos entre tecnologías
-
----
-
-## Estadísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J-Uriol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Uriol&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## Formación
 
 **Desarrollo de Aplicaciones Web (DAW)**  
